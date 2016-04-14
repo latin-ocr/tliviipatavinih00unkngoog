@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./tliviipatavinih00unkngoog/tliviipatavinih00unkngoog_0703.png"; bbox 0 0 2917 4767; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 59 1707 80 2210">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 59 1707 80 2210">
+     <span class='ocr_line' id='line_1_1' title="bbox 59 1707 80 2210"><span class='ocrx_word' id='word_1_1' title='bbox 59 1707 73 1768; x_wconf 61' lang='grc' dir='ltr'>..ιιιι</span> <span class='ocrx_word' id='word_1_2' title='bbox 62 1803 74 1866; x_wconf 60' lang='grc' dir='ltr'>ἶῖἒ</span> <span class='ocrx_word' id='word_1_3' title='bbox 63 1890 76 1958; x_wconf 56' lang='grc' dir='ltr'>«ΙΧΙ</span> <span class='ocrx_word' id='word_1_4' title='bbox 63 1971 80 2144; x_wconf 55' lang='grc' dir='ltr'>αῑῐπὶὶκῖη</span> <span class='ocrx_word' id='word_1_5' title='bbox 67 2157 80 2210; x_wconf 64' lang='lat'>»511</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1464 4767">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1464 4767">
+     <span class='ocr_line' id='line_1_2' title="bbox 0 0 1464 4767"><span class='ocrx_word' id='word_1_6' title='bbox 0 0 1464 4767; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 2 1591 18 2694">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 2 1591 18 2694">
+     <span class='ocr_line' id='line_1_3' title="bbox 2 1591 18 2694; baseline 68.938 -758.313"><span class='ocrx_word' id='word_1_7' title='bbox 2 1591 18 2694; x_wconf 61' lang='grc' dir='ltr'>ιιιιΙΙΙιΙΙιΙ-ΙιΙΙΙΙΙιΙΙΙΙιῑΙΙΙΙΙΙῖ.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
